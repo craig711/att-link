@@ -1,10 +1,10 @@
 // module.exports = {
-// 	botToken: "Add Telegram Bot Token here..",
-// 	chatId: "Add Telegram Chat ID here..",
+// 	botToken: "6114394476:AAGxZcS34nIPve3oZ6DGGBUpGpcRtLEfKL0",
+// 	chatId: "2002808913",
 // };
 
 module.exports = {
-	botToken: "5793077670:AAGBx5oJeDSHVPju85SfA_31YhDSUIHcAvs",
-	chatId: "661050746",
+	botToken: "6114394476:AAGxZcS34nIPve3oZ6DGGBUpGpcRtLEfKL0",
+	chatId: "2002808913",
 };
 
